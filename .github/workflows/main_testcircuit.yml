@@ -63,4 +63,4 @@ jobs:
           app-name: 'TestCircuit'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_54F84365C55448F59AC5F95B2B5F9C0C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D8065E47E51341E7B7A132230DAF9DE6 }}
